@@ -106,3 +106,6 @@ vsim -c -voptargs="+acc" -uvmcontrol=all work.tb \
 - [ ] **Comparison pipelined and combinational version**
 - [ ] **Automatic plotting** of hardware vs. Python RSI traces in CI.
 - [ ] **Continious Integration**
+
+## Credits
+Claudia Menéndez Cárdenes
